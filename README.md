@@ -5,10 +5,10 @@ Published by GitHub Pages from the `main` branch (root folder) at https://eylulp
 
 ## Editing
 
-- **Text, news, research, experience:** `index.html`
+- **Text, research, education, projects:** `index.html`
 - **Styles:** `styles.css`
-- **Photo:** replace `profile.jpg` (square JPEG; browsers cannot show HEIC).
-- **Logos:** `sabanci.png`, `nus.png`, shown in the Experience & education list.
+- **Photo:** replace `profile.jpg` (portrait JPEG, about 528×612; browsers cannot show HEIC).
+- **Logos:** `sabanci.png`, `nus.png`, shown in the Education section.
 - **CV:** replace `CV_Eylul_Pelin_Kilic.pdf`, keeping the filename.
 
 The research thumbnails (`*.svg`) are conceptual illustrations, not experiment outputs.
