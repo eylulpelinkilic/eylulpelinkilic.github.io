@@ -35,7 +35,8 @@ summary { width: fit-content; cursor: pointer; color: #175a96; }
 /* Experience */
 .experience { font-size: 15px; }
 .experience > summary { font-size: 18px; }
-.experience li { margin-bottom: 14px; }
+.experience li { display: flex; align-items: center; gap: 14px; margin-bottom: 16px; }
+.logo { flex: 0 0 64px; width: 64px; height: 40px; object-fit: contain; }
 .dates { display: block; color: #666; font-size: 14px; }
 
 footer { border-top: 1px solid #e5e5e5; padding-top: 18px; margin-top: 40px; font-size: 14px; color: #737373; }

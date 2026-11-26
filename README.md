@@ -7,7 +7,8 @@ Published by GitHub Pages from the `main` branch (root folder) at https://eylulp
 
 - **Text, news, research, experience:** `index.html`
 - **Styles:** `styles.css`
-- **Photo:** add `profile.jpg` to the repository root and change the `src` of the `portrait` image in `index.html` from `profile.svg` to `profile.jpg`.
+- **Photo:** replace `profile.jpg` (square JPEG; browsers cannot show HEIC).
+- **Logos:** `sabanci.png`, `nus.png`, shown in the Experience & education list.
 - **CV:** replace `CV_Eylul_Pelin_Kilic.pdf`, keeping the filename.
 
 The research thumbnails (`*.svg`) are conceptual illustrations, not experiment outputs.
