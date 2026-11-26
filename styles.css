@@ -27,10 +27,14 @@ summary { width: fit-content; cursor: pointer; color: #175a96; }
 /* Research */
 .research li { display: grid; grid-template-columns: 144px minmax(0, 1fr); gap: 22px; align-items: center; margin-bottom: 25px; }
 .preview { display: block; width: 144px; height: auto; border-radius: 3px; }
-.research h3 { margin: 0 0 4px; line-height: 1.45; }
-.research p { margin: 0 0 2px; font-size: 14px; }
-.research .who { color: #494949; }
-.research .when { font-style: italic; }
+.research h3, .projects h3 { margin: 0 0 4px; line-height: 1.45; }
+.research p, .projects p { margin: 0 0 2px; font-size: 14px; }
+.who { color: #494949; }
+.when { font-style: italic; }
+
+/* Course projects */
+.projects li { margin-bottom: 22px; }
+.nowrap { white-space: nowrap; }
 
 /* Experience */
 .experience { font-size: 15px; }
