@@ -11,4 +11,4 @@ Published by GitHub Pages from the `main` branch (root folder) at https://eylulp
 - **Logos:** `sabanci.svg` (Wikimedia Commons), `nus.svg` (Wikipedia), shown in the Education section.
 - **CV:** replace `CV_Eylul_Pelin_Kilic.pdf`, keeping the filename.
 
-The research thumbnails are conceptual illustrations, except two real figures: `diagnostic-landscape.svg` (the uncertainty project's diagnostic landscape, `app_artifacts/diagnostic_landscape.png`, with its labels) and `scene-segmentation.svg` (ScanNet++ val scene `7b6477cb95` from the appearance-pt pilot: photo, ground truth, Concerto, Concerto + DINO).
+The research thumbnails are real figures: `scene-segmentation.svg` (ScanNet++ val scene `7b6477cb95` from the appearance-pt pilot: photo, ground truth, Concerto, Concerto + DINO), `where-is-my-cup.jpg` (`clean.jpg` cropped to 3:2, with the question added) and `diagnostic-landscape.svg` (the uncertainty project's diagnostic landscape, `app_artifacts/diagnostic_landscape.png`, with its labels).
